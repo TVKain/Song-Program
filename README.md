@@ -3,7 +3,6 @@ Installation guide:
 ```
 git clone https://github.com/TVKain/Song-Program.git
 cd Song-Program
-cd song_menu
 mkdir build
 cd build
 cmake ..
