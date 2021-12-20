@@ -6,6 +6,7 @@ cd Song-Program
 mkdir build
 cd build
 cmake ..
+make
 ```
 Execute with:
 ```
